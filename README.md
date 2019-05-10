@@ -1,2 +1,0 @@
-# Sankey
-Created with CodeSandbox
